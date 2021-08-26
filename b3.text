@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Redirect to linkS</title>
+</head>
+<body>
+<h1><centre><i>Redirect Image Links</i></center></h1> <!--Tile-->
+
+<p><i>Click Below Image for Cristiano Ronaldo wikipedia</i></p>
+
+<a href="http://en.wikipedia.org/wiki/Cristiano_ronaldo">
+<img src="C:\Users\Administrator\Pictures\cr7.jpg"/>
+</a>
+</body>
+</html>
